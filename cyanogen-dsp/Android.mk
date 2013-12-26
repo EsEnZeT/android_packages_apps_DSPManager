@@ -2,8 +2,6 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_CPPFLAGS += -fno-strict-aliasing
-
 LOCAL_MODULE := libcyanogen-dsp
 
 LOCAL_MODULE_TAGS := optional
