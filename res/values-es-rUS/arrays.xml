@@ -17,38 +17,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
-    <item>Jatorrizkoa</item>
-    <item>Orekatua</item>
-    <item>Sentikortasun altua</item>
-    <item>Ingurune zaratatsua</item>
+    <item>Original</item>
+    <item>Equilibrado</item>
+    <item>Alta sensibilidad</item>
+    <item>Entorno ruidoso</item>
   </string-array>
   <string-array name="headphone_modes">
-    <item>Estudioa</item>
-    <item>Gela</item>
-    <item>Gela handia</item>
-    <item>Eszenatokia</item>
+    <item>Estudio</item>
+    <item>Habitación</item>
+    <item>Gran habitación</item>
+    <item>Escenario</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
-    <item>Ezgaituta</item>
-    <item>Oso ahula</item>
-    <item>Ahula</item>
-    <item>Arina</item>
-    <item>Indartsua</item>
-    <item>Indartsuagoa</item>
-    <item>Indartsuena</item>
+    <item>Desactivado</item>
+    <item>Más débil</item>
+    <item>Débil</item>
+    <item>Débil</item>
+    <item>Fuerte</item>
+    <item>Fuerte</item>
+    <item>Muy fuerte</item>
   </string-array>
   <string-array name="compression_modes">
-    <item>Arina</item>
-    <item>Neurritsua</item>
-    <item>Extremoa</item>
+    <item>Ligero</item>
+    <item>Moderado</item>
+    <item>Fuerte</item>
   </string-array>
   <string-array name="bassboost_modes">
-    <item>Arina</item>
-    <item>Neurritsua</item>
-    <item>Extremoa</item>
+    <item>Ligero</item>
+    <item>Moderado</item>
+    <item>Fuerte</item>
   </string-array>
   <string-array name="wm8994_bassboost_modes">
-    <item>Estandarra</item>
-    <item>Bozgorailu txikiak</item>
+    <item>Estándar</item>
+    <item>Altavoces pequeños</item>
   </string-array>
 </resources>

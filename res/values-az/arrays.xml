@@ -17,38 +17,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
-    <item>Jatorrizkoa</item>
-    <item>Orekatua</item>
-    <item>Sentikortasun altua</item>
-    <item>Ingurune zaratatsua</item>
+    <item>Orjinal</item>
+    <item>Tarazlı</item>
+    <item>Yüksək Həssaslıq</item>
+    <item>Səs-küylü Mühit</item>
   </string-array>
   <string-array name="headphone_modes">
-    <item>Estudioa</item>
-    <item>Gela</item>
-    <item>Gela handia</item>
-    <item>Eszenatokia</item>
+    <item>Studiya</item>
+    <item>Otaq</item>
+    <item>Böyük otaq</item>
+    <item>Səhnə</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
-    <item>Ezgaituta</item>
-    <item>Oso ahula</item>
-    <item>Ahula</item>
-    <item>Arina</item>
-    <item>Indartsua</item>
-    <item>Indartsuagoa</item>
-    <item>Indartsuena</item>
+    <item>Aktiv deyil</item>
+    <item>Ən zəif</item>
+    <item>Daha zəif</item>
+    <item>Zəif</item>
+    <item>Güclü</item>
+    <item>Daha güclü</item>
+    <item>Ən güclü</item>
   </string-array>
   <string-array name="compression_modes">
-    <item>Arina</item>
-    <item>Neurritsua</item>
-    <item>Extremoa</item>
+    <item>Az</item>
+    <item>Orta</item>
+    <item>Yüksək</item>
   </string-array>
   <string-array name="bassboost_modes">
-    <item>Arina</item>
-    <item>Neurritsua</item>
-    <item>Extremoa</item>
+    <item>Az</item>
+    <item>Orta</item>
+    <item>Yüksək</item>
   </string-array>
   <string-array name="wm8994_bassboost_modes">
-    <item>Estandarra</item>
-    <item>Bozgorailu txikiak</item>
+    <item>Standard</item>
+    <item>Kiçik Səsucaldanlar</item>
   </string-array>
 </resources>
